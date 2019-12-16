@@ -1,0 +1,4 @@
+C:\Users\Paladin\source\repos\HF1A\HF1A\bin\Debug\netcoreapp3.0\HF1A.exe
+C:\Users\Paladin\source\repos\HF1A\HF1A\obj\Debug\netcoreapp3.0\HF1A.csprojAssemblyReference.cache
+C:\Users\Paladin\source\repos\HF1A\HF1A\obj\Debug\netcoreapp3.0\HF1A.AssemblyInfoInputs.cache
+C:\Users\Paladin\source\repos\HF1A\HF1A\obj\Debug\netcoreapp3.0\HF1A.AssemblyInfo.cs
